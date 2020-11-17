@@ -8,11 +8,17 @@ The components of the capstone course project map to the course objectives. Each
 
 Upon completing this series, you will:
 	1. Write a narrative charter statement
+	
 	2. Create a work breakdown structure
+	
 	3. Sequence project activities
+	
 	4. Build a project schedule
+	
 	5. Create a project budget
+	
 	6. Create a responsibility assignment matrix
+	
 	7. Identify project risks and define responses for those risks
 
 The components created represent some of the critical planning deliverables that a project manager creates with his or her team. Each student may use a project of their own or select a project from the sample projects listed below in the next section. If a student desires to use his or her own project, that project may be work related or personal. If work related, the student should ensure that he or she has permission from their organization and does not divulge the name of the organization unless he or she has specific permission to do so. Typically the best project is the one that allows the student to really make use of what has been learned in the courses leading up to this capstone. In a perfect world this project would be both fun, interesting to work on and useful. Students are already aware of what makes a project a project. In the interest of helpfulness, some ideas: implementation of new software or hardware or business processes. The creation of a new product or service. A large event, such as a wedding, fund raising event or party or concert or festival. The reorganization of a department or an entire company.
