@@ -7,6 +7,7 @@ Course Objectives and Project Components
 The components of the capstone course project map to the course objectives. Each course objective is to be met by completing a specific part of the project. The objectives are included below. Each objective is outlined in detailed in module 2, which explains the the description and and directions for each portion of the project assignment and reveals the grading rubric for the peer review for each course objective.
 
 Upon completing this series, you will:
+
 	1. Write a narrative charter statement
 	
 	2. Create a work breakdown structure
